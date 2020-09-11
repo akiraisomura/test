@@ -1,3 +1,3 @@
 puts "aaaa"
-puts "bbbb"
+puts "bb"
 puts "cccc"
